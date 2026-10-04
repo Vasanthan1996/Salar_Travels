@@ -1,0 +1,15 @@
+Trip photos (optional)
+Put a JPG with one of these names in this folder and it replaces the drawn illustration on that trip card:
+
+dest-promenade.jpg        Pondicherry city tour
+dest-auroville.jpg        Auroville
+dest-mahabalipuram.jpg    Mahabalipuram
+dest-chennai-airport.jpg  Chennai Airport
+dest-tiruvannamalai.jpg   Tiruvannamalai
+dest-velankanni.jpg       Velankanni
+dest-thanjavur.jpg        Thanjavur
+dest-kodaikanal.jpg       Kodaikanal
+dest-madurai.jpg          Madurai
+
+Use your own photos from trips, or free-for-commercial-use photos from unsplash.com or pexels.com.
+Landscape, about 1000 px wide, under 200 KB each.
